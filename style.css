@@ -56,8 +56,10 @@ button:hover {
 
 #respContainer {
     background-color: bisque;
-    color:rgb(189, 107, 0);
+    color:rgb(112, 64, 0);
     padding: 10px;
     margin: 8px;
     border:2px solid rgb(77, 77, 77);
+    display: flex;
+    
 }
