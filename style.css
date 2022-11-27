@@ -63,3 +63,9 @@ button:hover {
     display: flex;
     
 }
+
+.button-container > p {
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
